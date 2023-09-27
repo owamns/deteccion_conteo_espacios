@@ -1,1 +1,6 @@
-# deteccion_conteo_espacios
+# Deteccinón de asientos libres
+
+
+## Demostración
+![Texto Alternativo](files/gif_muestra.gif)
+
