@@ -1,4 +1,4 @@
-# Deteccinón de asientos libres
+# Detección de asientos libres
 
 
 ## Demostración
